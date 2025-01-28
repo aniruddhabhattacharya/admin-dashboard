@@ -1,0 +1,56 @@
+.header-bar {
+    background-color: #404041;
+    display: flex;
+    height: 60px;
+    flex-direction: row;
+    color: white;
+    padding: 0px 50px;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.admin-console{
+    font-size: 25px;
+}
+.name-left {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    margin-top: 12px;
+}
+
+.icons-right {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+}
+
+.user {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 12px;
+    background-color: #242424;
+    padding: 10px;
+    text-align: center;
+}
+.support {
+    margin-top: 12px;
+}
+.img {
+    height: 30px;
+    border-radius: 50px;
+}
+
+.admin-view {
+    background-color: white;
+    color: black;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 2px 5px;
+    border-radius: 50px;
+    font-weight: bold;
+    margin-top: 5px;
+}

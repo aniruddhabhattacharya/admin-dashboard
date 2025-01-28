@@ -1,0 +1,23 @@
+.filter-section {
+    background-color: white;
+    height: calc(100vh - 10px);
+    padding: 10px;
+}
+.heading-filter {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+}
+
+.filter-subsection {
+    border-bottom: 1px solid lightgray;
+}
+
+.space-left {
+    margin-left: 20px;
+}
+
+.input-check {
+    margin-left: 10px;
+}
